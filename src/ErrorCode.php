@@ -1,6 +1,6 @@
 <?php
 
-namespace ResCode\Result;
+namespace ResCode;
 
 use Hyperf\Constants\AbstractConstants;
 use Hyperf\Constants\Annotation\Constants;

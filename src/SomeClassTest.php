@@ -1,6 +1,6 @@
 <?php
 
-namespace ResCode\Result;
+namespace ResCode;
 
 //require_once dirname(__DIR__) . '/vendor/autoload.php';
 

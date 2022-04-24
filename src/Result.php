@@ -1,6 +1,6 @@
 <?php
 
-namespace ResCode\Result;
+namespace ResCode;
 
 class Result
 {

@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace ResCode\Result;
+namespace ResCode;
 
 class ConfigProvider
 {
