@@ -1,0 +1,16 @@
+{
+    "name": "ydl/rescode",
+    "description": "rescode",
+    "autoload": {
+        "psr-4": {
+            "Rescode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "崔福轩",
+            "email": "251710054@qq.com"
+        }
+    ],
+    "require": {}
+}
