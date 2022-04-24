@@ -1,6 +1,9 @@
 {
     "name": "yedongli/rescode",
     "description": "rescode",
+    "require": {
+        "hyperf/constants": "^2.2"
+    },
     "autoload": {
         "psr-4": {
             "Rescode\\": "src/"
@@ -12,5 +15,9 @@
             "email": "251710054@qq.com"
         }
     ],
-    "require": {}
+    "extra": {
+        "hyperf": {
+            "config": "Result\\ConfigProvider"
+        }
+    }
 }
