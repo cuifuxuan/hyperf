@@ -7,7 +7,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rescode\\": "src/"
+            "YeDongLi\\Rescode\\": "src/"
         }
     },
     "authors": [
@@ -18,7 +18,7 @@
     ],
     "extra": {
         "hyperf": {
-            "config": "Result\\ConfigProvider"
+            "config": "YeDongLi\\Result\\ConfigProvider"
         }
     }
 }

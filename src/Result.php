@@ -1,6 +1,6 @@
 <?php
 
-namespace ResCode;
+namespace YeDongLi/ResCode;
 
 class Result
 {

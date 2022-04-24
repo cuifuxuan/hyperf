@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace ResCode;
 
-class ConfigProvider
+class YeDongLi/ConfigProvider
 {
     public function __invoke(): array
     {
