@@ -1,5 +1,5 @@
 {
-    "name": "ydl/rescode",
+    "name": "yedongli/rescode",
     "description": "rescode",
     "autoload": {
         "psr-4": {
