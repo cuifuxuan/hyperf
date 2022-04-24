@@ -1,6 +1,6 @@
 <?php
 
-namespace YeDongLi/ResCode;
+namespace YeDongLi\ResCode;
 
 //require_once dirname(__DIR__) . '/vendor/autoload.php';
 

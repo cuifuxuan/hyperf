@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace ResCode;
+namespace YeDongLi\ResCode;
 
-class YeDongLi/ConfigProvider
+class ConfigProvider
 {
     public function __invoke(): array
     {

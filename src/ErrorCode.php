@@ -1,6 +1,6 @@
 <?php
 
-namespace YeDongLi/ResCode;
+namespace YeDongLi\ResCode;
 
 use Hyperf\Constants\AbstractConstants;
 use Hyperf\Constants\Annotation\Constants;
